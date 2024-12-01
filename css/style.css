@@ -1,0 +1,207 @@
+header {
+    height: 80px;
+}
+.myflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bu{
+    margin-left: 99px;
+    margin-top: 24px;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-top: 33px;
+    margin-right: 78px;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-style: normal;
+    color: #636060;}
+.home{color: #636060;}
+.abtus{color: #636060;}
+.ourser{color: #636060;}
+.tour{color: #636060;}
+.fa-bars{
+    display: none;
+    margin-top: 15px;
+}
+.container {
+    max-width: 1742px;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    column-gap: 130px;
+    margin-bottom: 100px}
+
+.sec1{
+background-image: url(../images/Rectangle\ 1.png);
+background-repeat: no-repeat;
+background-position: top;
+background-size: cover;
+height: 606px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.ragaca{
+color: #FFF;
+font-family: Helvetica;
+font-size: 79px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.ragaca1{
+color: #FFF;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.p2{color: #010101;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.p3{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 37px;
+} 
+.dialogi{
+    width: 235px;
+    height: 213px;
+    margin-left: 100px;
+    margin-top: 84px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+}
+.cardwrapper{
+    width: 924px;
+    margin-left: 83px;
+    margin-top: 84px;
+    margin-right: 98px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 56px 33px; 
+}
+.pp{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp2{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp3{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp4{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp5{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp6{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp7{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp8{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp9{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp10{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp11{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp12{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.divi1{width: 286px;
+}
+.divi2{width: 286px;
+}
+.divi3{width: 286px;
+}
+.divi4{width: 286px;
+}
+.divi5{width: 286px;
+}
+.divi6{width: 286px;
+}
