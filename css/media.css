@@ -21,3 +21,9 @@
         align-items: center;
     }
 }
+
+@media (max-width: 765px) {
+    .dialogi {
+       margin-right: 220px;
+    }
+}
