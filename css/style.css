@@ -135,7 +135,7 @@ line-height: normal;
     margin-left: 150px;
 }
 .cardwrapper{
-    width: 924px;
+    width: 100%;
     margin-left: 83px;
     margin-top: 84px;
     margin-right: 98px;
@@ -259,3 +259,4 @@ line-height: normal;
 }
 .divi6{width: 286px;
 }
+
